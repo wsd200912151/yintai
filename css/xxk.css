@@ -1,0 +1,79 @@
+/*六*/
+.six-xxk .xxk-left{width:909px;
+     height:354px;
+     /*background:#ddd;*/
+     float:left;
+     overflow:hidden;
+    }
+.six-xxk .xxk-left .link a{float:left;
+	         width:33.3333%;
+	         height:45px;
+	         border-bottom:5px solid #333;
+	         text-align:center;
+	         line-height:45px;
+	         font-size:15px;
+	         margin-top:32px;
+	         color:#000; 
+            }
+.six-xxk .xxk-left .link a:hover{font-size:16px;
+		    font-weight:bold;}            
+.six-xxk .xxk-left .list{width:100%;
+		   height:260px;
+		   float:left;
+		   margin-top:10px; 
+		  }
+.six-xxk .xxk-left .list img{width:218px;height:258px;float:left;margin-right:9px;border:1px solid #eee;}
+
+/*九*/
+.nine-shoppe .right-xxk{width:815px;height:555px;float:left;/*background:red;*/margin-top:10px;overflow:hidden;}
+.nine-shoppe .right-xxk .link a{float:left;
+	         width:102px;
+	         height:35px;
+	         border-bottom:3px solid #333;
+	         text-align:center;
+	         line-height:35px;
+	         font-size:12px;
+	         color:#666; 
+            }
+.nine-shoppe .right-xxk .link a:hover{color:#414141;}
+.nine-shoppe .right-xxk .list{width:100%;
+		   height:513px;
+		   float:left;
+		  }
+.nine-shoppe .right-xxk .list img{float:left;margin-right:5px;margin-top:4px;}
+
+/*下拉*/
+.xlbox{
+	width:70px;
+	height:auto;
+	/*border:1px solid #696365;*/
+	background:#fff;
+	margin-left:290px;
+
+}
+.xlbox .link{
+	width:65px;
+	height:34px;
+	color:#696365;
+	padding-left:5px;
+	font-size:12px;
+	display:block;
+	line-height:34px;
+	background: #eee;
+}
+.xlbox ul{
+	width:70px;
+	height:204px;
+	display:none;
+}
+.xlbox li a{
+	width:65px;
+	height:33px;
+	border-bottom:1px solid #eee;
+	color:#696365;
+	padding-left:5px;
+	font-size:12px;
+	display:block;
+	line-height:33px;
+}
+.xlbox li a:hover{text-decoration:underline;}
